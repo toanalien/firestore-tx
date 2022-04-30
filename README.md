@@ -89,6 +89,14 @@ Tổng 2 lần gọi `120000` requests chỉ có `241` TX được ghi.
 
 ## Thống kê
 
+Instance specs
+
+```
+Region us-central1
+Memory allocated 256 MB
+Timeout 60 seconds
+```
+
 ![](https://i.imgur.com/dX85ZnD.png)
 
 ![](https://i.imgur.com/gL3I3pk.png)
