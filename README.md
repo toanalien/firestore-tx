@@ -1,4 +1,4 @@
-Test Firestore Transaction
+Test Firestore Transactions
 ===
 
 Tài liệu về Firestore transaction: https://firebase.google.com/docs/firestore/manage-data/transactions
