@@ -1,7 +1,7 @@
 Test Firestore Transactions
 ===
 
-Tài liệu về Firestore transaction: https://firebase.google.com/docs/firestore/manage-data/transactions
+Tài liệu về Firestore transactions: https://firebase.google.com/docs/firestore/manage-data/transactions
 
 Mình thử deploy 1 function với mục đích:
 
